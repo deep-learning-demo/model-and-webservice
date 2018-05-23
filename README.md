@@ -7,4 +7,12 @@ This repository contains instructions for building and deploying a MNIST digit p
 
 # Instructions
 
-Coming soon ...
+## Download neural network flow design
+
+The sample MNIST flow provided with IBM Watson Studio's Neural Network designer has a low accuracy.  The first thing we need to do is create a new flow.
+
+You can download the improved flow from here: [CNN MNIST](./CNN_MNIST.nnd)
+
+### Create new flow design
+
+More steps coming soon ...
